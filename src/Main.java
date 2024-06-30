@@ -1,8 +1,8 @@
-package ss17;
+import ss17.Product;
+import ss17.ProductManager;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 
