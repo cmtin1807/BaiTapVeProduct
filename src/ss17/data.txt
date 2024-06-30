@@ -1,0 +1,8 @@
+1,tran,3,tuan,nghia
+2,khang,4,nhu,khang
+3,samsung,21,samssung,gala
+4,ga,100,ca,mam
+5,Hung,12,Dung,Nam
+6,Ca,21,Sang,Dan
+7,Phu,12,Ngo,Name
+8,da,23,name,sang
